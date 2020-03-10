@@ -1,0 +1,5 @@
+/images/*
+/masks/*
+/model-tgs-salt.h5
+.ipynb_checkpoints
+
